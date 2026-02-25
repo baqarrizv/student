@@ -1,0 +1,28 @@
+# Dependencies
+/vendor/
+
+# IDE
+/.idea/
+/.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.*
+
+# Test coverage
+/coverage/
+
+# PHPStorm
+.PhpStorm*
+
+# Build outputs
+/node_modules/
