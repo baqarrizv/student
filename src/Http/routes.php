@@ -13,11 +13,6 @@ use Student\Http\Controllers\StudentController;
 |
 */
 
-Route::middleware(['web', 'auth'])->group(function () {
+Route::middleware(['web'])->group(function () {
     Route::resource('students', StudentController::class);
 });
-
-// Alternative: Without auth middleware
-// Route::middleware(['web'])->group(function () {
-//     Route::resource('students', StudentController::class);
-// });
