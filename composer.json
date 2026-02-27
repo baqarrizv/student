@@ -1,5 +1,5 @@
 {
-    "name": "student/package",
+    "name": "baqarrizv/student",
     "description": "Reusable Student Module for Laravel",
     "type": "library",
     "license": "MIT",
