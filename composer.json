@@ -9,11 +9,11 @@
         "module",
         "package"
     ],
-    "homepage": "https://github.com/your-username/student",
+    "homepage": "https://github.com/baqarrizv/student",
     "authors": [
         {
-            "name": "Your Name",
-            "email": "your@email.com"
+            "name": "baqarrizv",
+            "email": "baqarrizvi72@gmail.com"
         }
     ],
     "require": {
@@ -46,6 +46,5 @@
         "optimize-autoloader": true
     },
     "minimum-stability": "dev",
-    "prefer-stable": true,
-    "version": "1.0.0"
+    "prefer-stable": true
 }
