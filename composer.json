@@ -1,5 +1,6 @@
 {
     "name": "baqarrizv/student",
+    "version": "1.0.8",
     "description": "Reusable Student Module for Laravel",
     "type": "library",
     "license": "MIT",
@@ -45,6 +46,5 @@
         "sort-packages": true,
         "optimize-autoloader": true
     },
-    "minimum-stability": "dev",
     "prefer-stable": true
 }
